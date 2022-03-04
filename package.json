@@ -1,0 +1,18 @@
+{
+  "name": "shruti-fastify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.27.2",
+    "mongoose": "^6.2.4",
+    "nodemon": "^2.0.15"
+  }
+}
